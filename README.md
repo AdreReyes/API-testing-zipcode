@@ -7,12 +7,12 @@ These scripts take the user's input <zipcode> and outputs the information into a
 <h2> 
 Contents: </h2>
 <p>
-API_tester.sh
+API_tester.sh\
 JSON_to_CSV.py
 </p>
 
 <h2>
-Dependencies: </h2> 
-<p>"[Zippopotam]""(https://www.zippopotam.us/)"</p>
+Third Party API: </h2> 
+<p>[Zippopotam](https://www.zippopotam.us/)</p>
 
 
